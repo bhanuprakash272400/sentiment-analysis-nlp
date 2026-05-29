@@ -1,0 +1,59 @@
+# ── Core Data & ML ────────────────────────────────────────────────────────────
+pandas
+numpy
+scikit-learn
+scipy
+
+# ── Deep Learning ─────────────────────────────────────────────────────────────
+torch
+torchvision
+torchaudio
+
+# ── Transformers & PEFT (RoBERTa + LoRA) ─────────────────────────────────────
+transformers
+peft
+accelerate
+datasets
+tokenizers
+sentencepiece
+
+# ── MLflow Experiment Tracking ────────────────────────────────────────────────
+mlflow
+
+# ── FastAPI Serving ───────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+
+# ── NLP Utilities ─────────────────────────────────────────────────────────────
+nltk
+regex
+
+# ── Visualization ─────────────────────────────────────────────────────────────
+matplotlib
+seaborn
+wordcloud
+
+# ── Explainability (SHAP / LIME) ──────────────────────────────────────────────
+shap
+lime
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+tqdm
+python-dotenv
+PyYAML
+joblib
+requests
+httpx
+
+# ── Dev / Testing ─────────────────────────────────────────────────────────────
+pytest
+black
+isort
+fastapi
+uvicorn
+torch
+transformers
+peft
+pydantic

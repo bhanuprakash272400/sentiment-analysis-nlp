@@ -1,0 +1,23 @@
+artifact_path: file:///c:/Users/DSU/OneDrive - Dakota State University/Desktop/pytorch/saved_models/mlruns/2/models/m-425360592b68441d8a69373d8235a0f2/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.10
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.11.0+cpu
+mlflow_version: 3.10.1
+model_id: m-425360592b68441d8a69373d8235a0f2
+model_size_bytes: 4592394
+model_uuid: m-425360592b68441d8a69373d8235a0f2
+prompts: null
+run_id: 2f464f1909a1472886c93ba3d780c673
+utc_time_created: '2026-04-15 07:46:36.467708'
